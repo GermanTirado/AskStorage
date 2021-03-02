@@ -1,0 +1,14 @@
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.AccesoDatos.deps.json
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.AccesoDatos.dll
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.AccesoDatos.pdb
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.csprojAssemblyReference.cache
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.AssemblyInfoInputs.cache
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.AssemblyInfo.cs
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.dll
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.pdb
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.Models.dll
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.Utilidades.dll
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.Models.pdb
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.Utilidades.pdb
+D:\Curso_ASP\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.csproj.CopyComplete

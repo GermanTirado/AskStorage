@@ -1,0 +1,9 @@
+D:\Curso_ASP\AskStorage\AskStorage.Utilidades\bin\Debug\netstandard2.0\AskStorage.Utilidades.deps.json
+D:\Curso_ASP\AskStorage\AskStorage.Utilidades\bin\Debug\netstandard2.0\AskStorage.Utilidades.dll
+D:\Curso_ASP\AskStorage\AskStorage.Utilidades\bin\Debug\netstandard2.0\AskStorage.Utilidades.pdb
+D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.AssemblyInfoInputs.cache
+D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.AssemblyInfo.cs
+D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.csproj.CoreCompileInputs.cache
+D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.dll
+D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.pdb
+D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.csprojAssemblyReference.cache
