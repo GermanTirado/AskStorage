@@ -7,3 +7,12 @@ D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorag
 D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.dll
 D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.pdb
 D:\Curso_ASP\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.csprojAssemblyReference.cache
+D:\Practica\AskStorage\AskStorage.Utilidades\bin\Debug\netstandard2.0\AskStorage.Utilidades.deps.json
+D:\Practica\AskStorage\AskStorage.Utilidades\bin\Debug\netstandard2.0\AskStorage.Utilidades.dll
+D:\Practica\AskStorage\AskStorage.Utilidades\bin\Debug\netstandard2.0\AskStorage.Utilidades.pdb
+D:\Practica\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.csprojAssemblyReference.cache
+D:\Practica\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.AssemblyInfoInputs.cache
+D:\Practica\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.AssemblyInfo.cs
+D:\Practica\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.csproj.CoreCompileInputs.cache
+D:\Practica\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.dll
+D:\Practica\AskStorage\AskStorage.Utilidades\obj\Debug\netstandard2.0\AskStorage.Utilidades.pdb

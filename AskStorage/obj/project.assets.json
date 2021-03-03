@@ -10141,11 +10141,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curso_ASP\\AskStorage\\AskStorage\\AskStorage.csproj",
+      "projectUniqueName": "D:\\Practica\\AskStorage\\AskStorage\\AskStorage.csproj",
       "projectName": "AskStorage",
-      "projectPath": "D:\\Curso_ASP\\AskStorage\\AskStorage\\AskStorage.csproj",
+      "projectPath": "D:\\Practica\\AskStorage\\AskStorage\\AskStorage.csproj",
       "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "D:\\Curso_ASP\\AskStorage\\AskStorage\\obj\\",
+      "outputPath": "D:\\Practica\\AskStorage\\AskStorage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10162,8 +10162,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Curso_ASP\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj": {
-              "projectPath": "D:\\Curso_ASP\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj"
+            "D:\\Practica\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj": {
+              "projectPath": "D:\\Practica\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj"
             }
           }
         }
@@ -10229,7 +10229,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

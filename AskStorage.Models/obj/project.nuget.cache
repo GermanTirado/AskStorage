@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+GhrbUo2XLOuUdZJcuoZk3pzBFsTl7TsxJpAwhzt6WvCCLV41Cbvp79clOCtNvbPvUFbONsfkmCJJ7pXgNNI3g==",
+  "dgSpecHash": "9+/SQ16YsHSKTa1mgcNb3PQnorMu25qIhM61966rdk0QvqrMJicvmh3mzxbkwuG+kKNx/M270UWe8ZAirS622w==",
   "success": true,
-  "projectFilePath": "D:\\Curso_ASP\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj",
+  "projectFilePath": "D:\\Practica\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\germa\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

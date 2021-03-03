@@ -15,5 +15,6 @@ namespace AskStorage.AccesoDatos.Data
         }
 
         public DbSet<Categoria> Categoria { get; set; }
+        public DbSet<Pregunta> Pregunta { get; set; }
     }
 }
