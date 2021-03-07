@@ -7449,19 +7449,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\germa\\.nuget\\packages\\": {}
+    "C:\\Users\\Adrian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practica\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj",
       "projectName": "AskStorage.Models",
-      "projectPath": "D:\\Practica\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj",
-      "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "D:\\Practica\\AskStorage\\AskStorage.Models\\obj\\",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj",
+      "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7512,7 +7512,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

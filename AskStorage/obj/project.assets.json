@@ -10136,19 +10136,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\germa\\.nuget\\packages\\": {}
+    "C:\\Users\\Adrian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practica\\AskStorage\\AskStorage\\AskStorage.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage\\AskStorage.csproj",
       "projectName": "AskStorage",
-      "projectPath": "D:\\Practica\\AskStorage\\AskStorage\\AskStorage.csproj",
-      "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "D:\\Practica\\AskStorage\\AskStorage\\obj\\",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage\\AskStorage.csproj",
+      "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10162,8 +10162,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Practica\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj": {
-              "projectPath": "D:\\Practica\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj"
+            "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj"
             }
           }
         }
@@ -10229,7 +10229,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

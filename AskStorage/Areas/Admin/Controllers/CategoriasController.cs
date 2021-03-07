@@ -41,11 +41,15 @@ namespace AskStorage.Areas.Admin.Controllers
             if (ModelState.IsValid)
             {
                 //Validación
-                categoria.NombreCategoria = Verificaciones(categoria.NombreCategoria);
+                string CopiaNombreCategoria = Verificaciones(categoria.NombreCategoria);
 
-                _contenedorTrabajo.Categoria.Add(categoria);
-                _contenedorTrabajo.Save();
-                return RedirectToAction(nameof(Index));
+                if (Confirmacion(CopiaNombreCategoria))
+                {
+                    _contenedorTrabajo.Categoria.Add(categoria);
+                    _contenedorTrabajo.Save();
+                    return RedirectToAction(nameof(Index));
+                }
+                return Json(new { success = false, message = "La categoría ya existe!" });
             }
 
             return View(categoria);
@@ -106,6 +110,20 @@ namespace AskStorage.Areas.Admin.Controllers
         #endregion
 
         #region Verificación
+
+        public bool Confirmacion(string cadena)
+        {
+            var verif = _contenedorTrabajo.Categoria.GetAll();
+            foreach (var cat in verif)
+            {
+                if (cadena == Verificaciones(cat.NombreCategoria))
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
         private string Verificaciones(string cadena)
         {
             //Quitar Espacios

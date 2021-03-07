@@ -1,0 +1,126 @@
+﻿@model AskStorage.Models.ViewModels.PreguntaVM
+@{
+    ViewData["Title"] = "Editar Pregunta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<h3 class="text-center">Editar pregunta</h3>
+<form method="post" asp-action="Edit" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Pregunta.Id"/>
+    <div class="row px-2 mx-2 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-8 mt-4">
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.Interrogante"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.Interrogante" class="form-control" />
+                    <span asp-validation-for="Pregunta.Interrogante" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.R1"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.R1" class="form-control" />
+                    <span asp-validation-for="Pregunta.R1" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.R2"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.R2" class="form-control" />
+                    <span asp-validation-for="Pregunta.R2" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.R3"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.R3" class="form-control" />
+                    <span asp-validation-for="Pregunta.R3" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.R4"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.R4" class="form-control" />
+                    <span asp-validation-for="Pregunta.R4" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.RC"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.RC" class="form-control" />
+                    <span asp-validation-for="Pregunta.RC" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.URL"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.URL" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.CategoriaId"></label>
+                </div>
+                <div class="col-7">
+                    @Html.DropDownListFor(m => m.Pregunta.CategoriaId, Model.ListaCategorias,
+                     "-Por favor seleccione una categoría-", new { @class = "form-control" })
+                </div>
+            </div>
+
+
+
+
+            <div class="form-group row">
+                <div class="col-7 offset-3">
+                    <div class="row">
+                        <div class="col">
+                            <button type="submit" class="btn btn-primary form-control" asp-route-id="@Model.Pregunta.Id">Actualizar</button>
+                        </div>
+                        <div class="col">
+                            <a asp-action="Index" class="btn btn-success form-control">Volver a lista</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-4 pt-3">
+            <img src="@Model.Pregunta.URL" width="100%" style="border-radius: 5px; border: solid #bbb9b9" />
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="https://cdn.tiny.cloud/1/aihhv3shzjo0xnu4mrq2214p1xyvh8ixd459a5sznqf5u8dp/tinymce/5/tinymce.min.js"></script>
+    <script>
+    tinymce.init({
+        plugins: 'lists',
+        menubar: 'file edit dormat'
+    })
+    </script>
+}

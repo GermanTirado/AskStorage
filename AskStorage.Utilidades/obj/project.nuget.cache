@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sU7QvkCraYHrquvEt0im6b7L3lmBriAfd8EPACozhJIoaqEO/0HwbdvcAb+b52DGzbliji3GoEyS2xlsBOZOaQ==",
+  "dgSpecHash": "TQFVTwl5lmKo+0oJoZVb1HJDdZK/7JmHsuFpX1bk+z13GULh9ciD/pshcSaOlqOvf59YrC+PxwavWxlCWO2wbQ==",
   "success": true,
-  "projectFilePath": "D:\\Practica\\AskStorage\\AskStorage.Utilidades\\AskStorage.Utilidades.csproj",
+  "projectFilePath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.Utilidades\\AskStorage.Utilidades.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\germa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\germa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -8,7 +8,7 @@ namespace AskStorage.AccesoDatos.Data.Repository
     {
         // Repositorios
         ICategoriaRepository Categoria { get; }
-
+        IPreguntaRepository Pregunta { get; }
         void Save();
     }
 }

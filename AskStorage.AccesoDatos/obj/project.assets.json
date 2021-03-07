@@ -9185,19 +9185,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\germa\\.nuget\\packages\\": {}
+    "C:\\Users\\Adrian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practica\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj",
       "projectName": "AskStorage.AccesoDatos",
-      "projectPath": "D:\\Practica\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj",
-      "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "D:\\Practica\\AskStorage\\AskStorage.AccesoDatos\\obj\\",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.AccesoDatos\\AskStorage.AccesoDatos.csproj",
+      "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9211,11 +9211,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\Practica\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj": {
-              "projectPath": "D:\\Practica\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj"
+            "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.Models\\AskStorage.Models.csproj"
             },
-            "D:\\Practica\\AskStorage\\AskStorage.Utilidades\\AskStorage.Utilidades.csproj": {
-              "projectPath": "D:\\Practica\\AskStorage\\AskStorage.Utilidades\\AskStorage.Utilidades.csproj"
+            "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.Utilidades\\AskStorage.Utilidades.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\Trabajo\\AskStorage\\AskStorage.Utilidades\\AskStorage.Utilidades.csproj"
             }
           }
         }
@@ -9266,7 +9266,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

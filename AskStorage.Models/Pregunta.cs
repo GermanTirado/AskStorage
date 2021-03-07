@@ -34,8 +34,7 @@ namespace AskStorage.Models
         [Required(ErrorMessage = "La respuesta es necesaria")]
         [Display(Name = "Respuesta Correcta")]
         public string RC { get; set; }
-
-        [DataType(DataType.ImageUrl)]
+        
         [Display(Name = "Imagen")]
         public string URL { get; set; }
 

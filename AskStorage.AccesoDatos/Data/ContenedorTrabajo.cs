@@ -13,8 +13,10 @@ namespace AskStorage.AccesoDatos.Data
         {
             _db = db;
             Categoria = new CategoriaRepository(_db);
+            Pregunta = new PreguntaRepository(_db);
         }
         public ICategoriaRepository Categoria { get; private set; }
+        public IPreguntaRepository Pregunta { get; private set; }
 
         public void Dispose()
         {

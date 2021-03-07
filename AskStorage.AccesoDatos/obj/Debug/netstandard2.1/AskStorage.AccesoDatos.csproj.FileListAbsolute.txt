@@ -26,3 +26,17 @@ D:\Practica\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorag
 D:\Practica\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.csproj.CopyComplete
 D:\Practica\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.dll
 D:\Practica\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.pdb
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.AccesoDatos.deps.json
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.AccesoDatos.dll
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.AccesoDatos.pdb
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.Models.dll
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.Utilidades.dll
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.Models.pdb
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\bin\Debug\netstandard2.1\AskStorage.Utilidades.pdb
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.csproj.CopyComplete
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.dll
+C:\Users\Adrian\Desktop\Trabajo\AskStorage\AskStorage.AccesoDatos\obj\Debug\netstandard2.1\AskStorage.AccesoDatos.pdb

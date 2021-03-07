@@ -1,0 +1,119 @@
+﻿@model AskStorage.Models.ViewModels.PreguntaVM
+@{
+    ViewData["Title"] = "Nueva Pregunta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<h3 class="text-center">Crear una nueva pregunta</h3>
+<form method="post" asp-action="Create" enctype="multipart/form-data">
+    <div class="row px-2 mx-2 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-10 offset-1 mt-4">
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.Interrogante"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.Interrogante" class="form-control" />
+                    <span asp-validation-for="Pregunta.Interrogante" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.R1"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.R1" class="form-control" />
+                    <span asp-validation-for="Pregunta.R1" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.R2"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.R2" class="form-control" />
+                    <span asp-validation-for="Pregunta.R2" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.R3"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.R3" class="form-control" />
+                    <span asp-validation-for="Pregunta.R3" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.R4"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.R4" class="form-control" />
+                    <span asp-validation-for="Pregunta.R4" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.RC"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.RC" class="form-control" />
+                    <span asp-validation-for="Pregunta.RC" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.URL"></label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Pregunta.URL" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label asp-for="Pregunta.CategoriaId"></label>
+                </div>
+                <div class="col-7">
+                    @Html.DropDownListFor(m => m.Pregunta.CategoriaId, Model.ListaCategorias,
+                     "-Por favor seleccione una categoría-", new { @class = "form-control" })
+                </div>
+            </div>
+
+
+
+
+            <div class="form-group row">
+                <div class="col-7 offset-3">
+                    <partial name="_VistaCrearVolver" />
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+<!-- Mensaje Pregunta -->
+<p hidden id="msg">@ViewData["Mensaje"]</p>
+
+@section Scripts {
+<script>
+    var mensaje = $('#msg').text();
+    if (mensaje != '') {
+        swal({
+            icon: 'error',
+            title: 'Esta pregunta ya existe!',
+            text: mensaje
+        })       
+    }
+</script>
+}
