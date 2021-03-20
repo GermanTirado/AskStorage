@@ -1,0 +1,14 @@
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\bin\Debug\netcoreapp3.1\AskStorage.AccesoDatos.deps.json
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\bin\Debug\netcoreapp3.1\AskStorage.AccesoDatos.dll
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\bin\Debug\netcoreapp3.1\AskStorage.AccesoDatos.pdb
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\bin\Debug\netcoreapp3.1\AskStorage.Models.dll
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\bin\Debug\netcoreapp3.1\AskStorage.Utilidades.dll
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\bin\Debug\netcoreapp3.1\AskStorage.Models.pdb
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\bin\Debug\netcoreapp3.1\AskStorage.Utilidades.pdb
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\obj\Debug\netcoreapp3.1\AskStorage.AccesoDatos.csprojAssemblyReference.cache
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\obj\Debug\netcoreapp3.1\AskStorage.AccesoDatos.AssemblyInfoInputs.cache
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\obj\Debug\netcoreapp3.1\AskStorage.AccesoDatos.AssemblyInfo.cs
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\obj\Debug\netcoreapp3.1\AskStorage.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\obj\Debug\netcoreapp3.1\AskStorage.AccesoDatos.csproj.CopyComplete
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\obj\Debug\netcoreapp3.1\AskStorage.AccesoDatos.dll
+D:\Practica\CatalogoPreguntas\AskStorage-CatalogoPreguntas\AskStorage.AccesoDatos\obj\Debug\netcoreapp3.1\AskStorage.AccesoDatos.pdb
